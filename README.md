@@ -64,6 +64,7 @@ Skills Developed:
 ### BCGX Certificate
 
 [View BCGX Certificate](./BCS_completion_certificate.pdf)
+
 [View BCGX Certificate](Data_Slide_Template_Final.pptx)
 
 
