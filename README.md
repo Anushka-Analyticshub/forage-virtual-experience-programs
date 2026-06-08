@@ -59,9 +59,12 @@ Skills Developed:
 
 [View Deloitte Certificate](./Deloitte.pdf)
 
+[View Deloitte Certificate](./Deloitte.pdf)]
+
 ### BCGX Certificate
 
 [View BCGX Certificate](./BCS_completion_certificate.pdf)
+[View BCGX Certificate](Data_Slide_Template_Final.pptx)
 
 
 ## Skills Demonstrated
