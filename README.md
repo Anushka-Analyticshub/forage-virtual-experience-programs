@@ -6,7 +6,6 @@ This repository contains certificates and learning outcomes from virtual job sim
 
 These programs provided practical exposure to business analytics, problem-solving, data interpretation, and professional decision-making through real-world business scenarios.
 
----
 
 ## Programs Completed
 
@@ -25,8 +24,6 @@ Skills Developed:
 - Business Communication
 - Insight Generation
 
----
-
 ### BCGX - Data Science Virtual Experience Program
 
 Key Areas Covered:
@@ -41,7 +38,6 @@ Skills Developed:
 - Business Analysis
 - Recommendation Development
 
----
 
 ## Learning Outcomes
 
@@ -51,15 +47,11 @@ Skills Developed:
 - Developed data-driven decision-making skills.
 - Learned how organizations use analytics to solve business problems.
 
----
-
 ## Repository Contents
 
 📄 Deloitte.pdf
 
 📄 BCS_completion_certificate.pdf
-
----
 
 ## Certificate Preview
 
@@ -71,7 +63,6 @@ Skills Developed:
 
 [View BCGX Certificate](./BCS_completion_certificate.pdf)
 
----
 
 ## Skills Demonstrated
 
@@ -83,7 +74,6 @@ Skills Developed:
 - Business Communication
 - Decision Making
 
----
 
 ## Author
 
